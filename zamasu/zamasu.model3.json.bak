@@ -1,0 +1,8 @@
+{
+	"Version": 3,
+	"model": "zamasu.moc3",
+	"textures": [
+		"zamasu.2048/texture_00.png"
+	],
+	"Physics": "zamasu.physics.json"
+}
